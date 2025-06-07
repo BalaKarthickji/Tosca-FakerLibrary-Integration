@@ -10,5 +10,5 @@ For example, if you want to get a Country to be stored in a buffer named coun, t
 Use the module Faker Address Generator, then give the value as coun for the attribute Country with action mode as 'Buffer'. 
 
 
-When running this test step, we will get a random country stored in a buffer named coun
+When running this test step, we will get a random country stored in a buffer named coun.
 If you have any queries, feel free to reach out to me via https://www.linkedin.com/in/contactbalaji/
